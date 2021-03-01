@@ -1,6 +1,6 @@
 package part.advance.abs;
 
-public interface ShopItemAbs {
+public interface ShopItemAbs {	
 	// current state on the shop's stack
 	Integer getQuantity();
 	

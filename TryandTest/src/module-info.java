@@ -1,1 +1,2 @@
-module TryandTest {}
+module TryandTest {
+	requires java.desktop;}
